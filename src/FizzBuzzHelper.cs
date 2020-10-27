@@ -1,6 +1,6 @@
 using System;
 
-namespace teste
+namespace teste_fizzbuzz
 {
     public static class FizzBuzzHelper
     {

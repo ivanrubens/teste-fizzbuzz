@@ -1,7 +1,6 @@
 ﻿using System;
-using teste;
 
-namespace teste_buzz
+namespace teste_fizzbuzz
 {
     public class Program
     {
